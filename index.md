@@ -1,3 +1,18 @@
+### T H E S T U F F ###
+
+
+
+**Latest Version**
+- <a href="Pikachu11.html">PIKACHU VERSION 11</A>
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/1nViv0/Javascript_Pikachu_2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -37,4 +52,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-<a href="Pikachu11.html">PIKACHU</A>
+
