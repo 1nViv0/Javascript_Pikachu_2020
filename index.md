@@ -3,14 +3,14 @@
 
 
 **Latest Version**
-- <a href="Pikachu12.html">PIKACHU VERSION 12</A>
+- <a href="Pikachu14.html">PIKACHU VERSION 14</A>
 
 
 **Previous Versions**
-Yeah, sue me I don't know how github works yet.
+Yeah, sue me I don't know how github works yet. This is my version control.
 
 - <a href="Pikachu11.html">PIKACHU VERSION 11</A>
-
+- <a href="Pikachu12.html">PIKACHU VERSION 12</A>
 
 **Oldschool Verions**
 <a href="https://www.java-scripts.net/javascripts/Pikachu.phtml">.Pikachu Game.</a>
