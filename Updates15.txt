@@ -1,0 +1,18 @@
+********VERSION 15 UPDATES*******
+
+
+Any suggestions on what to add next?
+Any other comments? Any bugs noticed?
+
+
+**Updates:**
+-Lives now represented by heart emojis.
+-Scratching activated the happy animation regardless or not pikachu was sick. It's now conditional on not being sick. Same thing for drunk.
+-Poking Pikachu's eye out now only pokes his eye, so the 0_- animation is temporary. This is to avoid having an additional condition on changing animations.
+-Tall grass button aethetics changed
+-Changed Pikachu to Javachu
+-A partial bug fix
+
+The bug: If you spam an action as pikachu is losing the last life from being sick, it bugs the whole thing out and you can't do anything. It's like that in the original code.
+I think I have a partial fix, it still won't show pikachu is dead, but at least you can catch another one with previous conditions cleared.
+It's a touch harder to test this bug so maybe I didn't get it.
